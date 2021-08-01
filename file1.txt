@@ -1,0 +1,1 @@
+For loops is used when you have definite itteration (the number of iterations is known). while loop is an indefinite itteration that is used when a loop repeats unkown number of times and end when some condition is met.
